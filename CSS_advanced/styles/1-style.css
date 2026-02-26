@@ -1,0 +1,4 @@
+/* HTML elementinə smooth scroll tətbiqi */
+html {
+    scroll-behavior: smooth;
+  }
