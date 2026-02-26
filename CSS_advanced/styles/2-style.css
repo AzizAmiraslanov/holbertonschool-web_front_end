@@ -1,0 +1,24 @@
+/* Body üçün foreground color */
+body {
+    color: #161616;
+  }
+  
+  /* Bütün anchor (link) elementləri üçün foreground color */
+  a {
+    color: #161616;
+  }
+  
+  /* visually-hidden sinfi olan elementlər üçün */
+  .visually-hidden {
+    display: none;
+  }
+  
+  /* card-category sinfi olan elementlər üçün */
+  .card-category {
+    color: #D73953;
+  }
+  
+  /* section-tagline sinfi olan elementlər üçün */
+  .section-tagline {
+    color: #D73953;
+  }
