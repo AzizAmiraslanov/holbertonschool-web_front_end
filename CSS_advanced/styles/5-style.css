@@ -15,9 +15,8 @@
     --font-size-xx-large: 4.8rem;
 }
 
-/* HTML elementində font ölçüsü 62.5% */
 html {
-    font-size: 62.5%;
+    scroll-behavior: smooth;
 }
 
 /* Body və bütün linklər üçün text-color tətbiqi */
